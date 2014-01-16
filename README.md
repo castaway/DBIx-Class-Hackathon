@@ -24,8 +24,7 @@ A one (maybe two) day weekend hackathon, April 2014, in Swindon, UK.
 * A to-be-decided venue near the centre of Swindon, UK
 * Travel by car: We're on the M4 between London and Bristol
 * Travel by train: Swindon Station is on many routes
-* Travel by air: Heathrow is aapprox 1 hour ride away by train, car and is a direct trip by National Express bus.
-
+* Travel by air: Heathrow is approx 1 hour ride away by train, car and is a direct trip by National Express bus.
 * Accommodation suggestions:
 
     * Travelodge
