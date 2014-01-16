@@ -8,12 +8,12 @@ A one or two-day weekend hackathon, April 2014, in Swindon, UK.
 
 ### What for? (Suggestions)
 
-* Hacking on DBIx::Class itself: Tickets will probably be available to contribute to
+* Hacking on DBIx::Class itself: A hefty prepared collection of tickets will be available to contribute to <quote: ribasushi>
 * Documenting DBIC
 * Sorting out the website
 * Playing with Data::Query (the new innards)
 * Your own DBIx::Class code with access to help
-* A talk or two maybe.
+* Ribasushi has volunteered a talk on DBIx::Class architechure, mebbe we can get mst as well..
 
 ### How many?
 
@@ -23,14 +23,22 @@ A one or two-day weekend hackathon, April 2014, in Swindon, UK.
 
 * Room hire (tables, chairs, power)
 * Breakfast/snacks/lunch
-* Internet, if the hall has it available
-* Local wifi network + server with CPAN, preloaded repos on.
+* Internet, if the venue has it available
+* Local wifi network + server with CPAN
+* Development environment on server available if required (you'll just need a laptop/tablet with ssh+keyboard)
 
 ### Attendee pays
 
 * Transport
 * Accommodation (block booking may make cheaper, but only with planning).
 * Evening meals
+
+### Location
+
+* A to-be-decided venue near the centre of Swindon, UK
+* Travel by car: We're on the M4 between London and Bristol
+* Travel by train: Swindon Station is on many routes
+* Travel by air: Heathrow is aapprox 1 hour ride away by train, car and is a direct trip by National Express bus.
 
 ### Sponsors
 
