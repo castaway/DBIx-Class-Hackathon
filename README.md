@@ -9,29 +9,15 @@ A one or two-day weekend hackathon, April 2014, in Swindon, UK.
 ### What for? (Suggestions)
 
 * Hacking on DBIx::Class itself: A hefty prepared collection of tickets will be available to contribute to <quote: ribasushi>
-* Documenting DBIC
+* Ribasushi has volunteered a couple talks on DBIx::Class architechure (deeply technical), mebbe we can get mst as well..
+* Revitalize the effort to documenting DBIC in a more accessible manner
 * Sorting out the website
-* Playing with Data::Query (the new innards)
-* Your own DBIx::Class code with access to help
-* Ribasushi has volunteered a talk on DBIx::Class architechure, mebbe we can get mst as well..
+* Playing with Data::Query (the new query language innards)
+* Work on your own DBIC-based code with access to instant help from core maintainers
 
 ### How many?
 
 * Who knows? drop your name in the wiki page linked below and we'll see what rooms we can get
-
-### Budget/Sponsored
-
-* Room hire (tables, chairs, power)
-* Breakfast/snacks/lunch
-* Internet, if the venue has it available
-* Local wifi network + server with CPAN
-* Development environment on server available if required (you'll just need a laptop/tablet with ssh+keyboard)
-
-### Attendee pays
-
-* Transport
-* Accommodation (block booking may make cheaper, but only with planning).
-* Evening meals
 
 ### Location
 
@@ -39,6 +25,21 @@ A one or two-day weekend hackathon, April 2014, in Swindon, UK.
 * Travel by car: We're on the M4 between London and Bristol
 * Travel by train: Swindon Station is on many routes
 * Travel by air: Heathrow is aapprox 1 hour ride away by train, car and is a direct trip by National Express bus.
+
+### Budget/Sponsored
+
+* Breakfast/snacks/lunch
+* Internet, if the venue has it available
+* Local wifi network + server with CPAN
+* Development environment on server available if required (you'll just need a laptop/tablet with ssh+keyboard)
+* Room hire (tables, chairs, power)
+
+### Attendee pays
+
+* Transport
+* Accommodation (block booking may make cheaper, but only with planning).
+* Evening meals
+
 
 ### Sponsors
 
@@ -83,11 +84,12 @@ Jess' random planning notes go here, they will change, feel free to read/ask abo
     * Wendy/Liz?
     * Swag? stickers or something
     * nearby shopping for forgotten things
+```
 14:10 < mst> connect said server to the internet
 14:10 < mst> QoS the living fuck out of it
 14:10 < mst> http? sure. git? sure. ssh? OH I'M SORRY HERE'S 1200 BAUD
-14:10 < mst> ... with an exception got git@github.com
-14:10 < mst> *for
+14:10 < mst> ... with an exception fot git@github.com
+```
 
 *  Possible locations:
     * Purton? min £13.50/hr one-off event
