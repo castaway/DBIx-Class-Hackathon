@@ -1,4 +1,4 @@
-DBIx::Class (Budget) Hackathon
+DBIx::Class Themed Hackathon
 ==============================
 
 The Plan
