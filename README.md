@@ -110,8 +110,18 @@ etcetc
     * http://www.vas-swindon.org/meetingrooms.html £65/day, but only weekdays 9:30 - 4:30pm
 
 * Hackathon content
-    * Suggestions from ribasushi?
-    * Remove Moose! dbicadmin + Replication (Moo is fine)
-    * Tests
-    
+  * DBIC core
+    * Lazy schema loading
+    * Join node options (http://lists.scsys.co.uk/pipermail/dbix-class/2014-January/011582.html)
+    * Fold result inflator into the resultset parser (massive speedups)
+    * Replace all uses of Moose with Moo (dbicadmin + Replication), write a Moo-compatible shared Type-library to use in the migration
+    * 
+    * Extra issues/tickets locked in ribasushi's head (will be available in-repo way before hackaton commences)
+  * DBIC core docs
+    * Agree on direction of docs, good separation of cookbook material, better organization
+    * Figure out what to do with multiple conflicting doc-branches
+  * DBIC core tests
+    * Manual, graphviz diagram, etc on how to start with testwriting
+    * Extra test csses in the CI environment  (extra RDBMS, ODBC, JDBC) 
+    * Multi-rdbms tests (based on ongoing work on DBI::Tet)
 ...
