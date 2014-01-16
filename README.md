@@ -4,7 +4,7 @@ DBIx::Class (Budget) Hackathon
 The Plan
 --------
 
-A one or two-day weekend hackathon, May 2014, in Swindon, UK. 
+A one or two-day weekend hackathon, April 2014, in Swindon, UK. 
 
 ### What for? (Suggestions)
 
@@ -62,6 +62,11 @@ Jess' random planning notes go here, they will change, feel free to read/ask abo
 
 * Theme:
     * DBIx::Class usage/tools/docs/tests etc?
+
+* Accommodation:
+
+    * Travelodge
+    * Jury's Inn
 
 * Notes?
     * single day? no accommodation / overnighting needed?
