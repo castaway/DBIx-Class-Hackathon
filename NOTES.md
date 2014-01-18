@@ -55,7 +55,7 @@ etcetc
     * wroughton - http://www.ellendunehallwroughton.co.uk/index.php?option=com_content&view=article&id=54&Itemid=59
     * arkells: http://www.arkells.com/contact.php - incl. brewery tour!
     * madison: http://www.madison-hotel.co.uk/
-    * pilgrim centre, small rm: 62.50/4 hour session, or £15.625/hr: http://www.pilgrimcentre.co.uk/standard.htm , large rm 22.125/hr (standard) .. community/voluntary: 8.125hr(97.5/day) or 11.5/hr (138/day) - chairs/tables included, other amenities available for fee.
+    * pilgrim centre, small rm: 62.50/4 hour session, or £15.625/hr: http://www.pilgrimcentre.co.uk/standard.htm , large rm 22.125/hr (standard) .. community/voluntary: 8.125hr(97.5/day) or 11.5/hr (138/day) - chairs/tables included, other amenities available for fee. 9am-9pm, can be longer if arranged.
     * holiday inn (west): http://www.expressswindon.co.uk/holiday-inn-express-swindon-meetings/meetings.html
     * STR old town: http://swindontrainingrooms.co.uk/roomstohire-swindon-training-and-meeting-rooms.html (front page claims £25/day, page says £95+VAT!) - replied via email, £25 is a 2-hour session thing
     * county ground: http://www.swindoncountyground.com/suites/the-chairmans-suite
@@ -78,3 +78,15 @@ etcetc
     * Extra test csses in the CI environment  (extra RDBMS, ODBC, JDBC) 
     * Multi-rdbms tests (based on ongoing work on DBI::Tet)
 ...
+
+* Other hackathons
+    * http://www.yapceurope.org/events/hackathons.html
+    * http://act.qa-hackathon.org/qa2014/budget.html
+
+* Sponsors
+    * sjn?
+    * Wendy/Liz?
+    * Shadowcat?
+
+* Marketing(!)
+    * Lanyrd

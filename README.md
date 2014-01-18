@@ -47,6 +47,7 @@ A one (maybe two) day weekend hackathon, April 2014, in Swindon, UK.
 ### Sponsors
 
 * Yes please!
+* Advertising negotiable, happy to hand out flyers, put up posters etc.
 
 ### What do I do?
 
