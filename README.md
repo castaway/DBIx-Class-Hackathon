@@ -46,6 +46,7 @@ A one (maybe two) day weekend hackathon, April 2014, in Swindon, UK.
 
 ### Sponsors
 
+* [eligo)[http://www.eligo.co.uk/] are giving us £250 for the venue costs, thank you Eligo!
 * Yes please!
 * Advertising negotiable, happy to hand out flyers, put up posters etc.
 
