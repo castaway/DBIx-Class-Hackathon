@@ -3,23 +3,6 @@ Notes/Status
 
 Jess' random planning notes go here, they will change, feel free to read/ask about:
 
-* Dates upcomming events
-    * 2014-01-25...26 Perl Oasis West
-    * 2014-02-01...02 FOSDEM
-    * 2014-03-13...16 QA Hackaton
-    * 2014-03-26...28 PerlWorkshop Germany
-    * 2014-01-00...00 PerlWorkshop DC-Baltimore ???
-    * 2014-04-20...21 Easter
-    * 2014-04-25...25 PerlWorkshop Netherlands
-    * 2014-05-16...18 PerlWorkshop Poland
-    * 2014-05-20...21 PerlWorkshop Czhech ???
-    * 2014-06-13...14 PerlWorkshop France ???
-    * 2014-06-23...25 YAPC::NA::Orlando (FL) ???
-    * 2014-07-00...00 YAPC::CN::Beijing/Shanghai ???
-    * 2014-00-00...00 YAPC::EU::Sofia ????
-
-    * above list has been exctracted from the Act test-server
-
 * Hall / community hall etc hire:
     * Village halls fairly cheap? (Deposit? see Market Lavington)
     * Distance from travel hub to consider, eg train station/airport?
@@ -99,8 +82,24 @@ etcetc
 * Other hackathons
     * http://www.yapceurope.org/events/hackathons.html
     * http://act.qa-hackathon.org/qa2014/budget.html
+    * 2014-01-25...26 Perl Oasis West
+    * 2014-02-01...02 FOSDEM
+    * 2014-03-13...16 QA Hackaton
+    * 2014-03-26...28 PerlWorkshop Germany
+    * 2014-01-00...00 PerlWorkshop DC-Baltimore ???
+    * 2014-04-20...21 Easter
+    * 2014-04-25...25 PerlWorkshop Netherlands
+    * 2014-05-16...18 PerlWorkshop Poland
+    * 2014-05-20...21 PerlWorkshop Czhech ???
+    * 2014-06-13...14 PerlWorkshop France ???
+    * 2014-06-23...25 YAPC::NA::Orlando (FL) ???
+    * 2014-07-00...00 YAPC::CN::Beijing/Shanghai ???
+    * 2014-00-00...00 YAPC::EU::Sofia ????
+
+    * above list has been exctracted from the Act test-server
 
 * Sponsors
+    * Eligo (via Mark!) - £250 for venue - 1.5 days of Pilgrim Centre?
     * sjn?
     * Wendy/Liz?
     * Shadowcat?
