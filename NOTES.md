@@ -16,7 +16,7 @@ Jess' random planning notes go here, they will change, feel free to read/ask abo
     * 2014-06-13...14 PerlWorkshop France ???
     * 2014-06-23...25 YAPC::NA::Orlando (FL) ???
     * 2014-07-00...00 YAPC::CN::Beijing/Shanghai ???
-    * 2014-00-00...00 YAPC::EU::Sofia ????
+    * 2014-08-22...24 YAPC::EU::2014 Sofia ????
 
     * above list has been exctracted from the Act test-server
 
