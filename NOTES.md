@@ -51,16 +51,34 @@ Jess' random planning notes go here, they will change, feel free to read/ask abo
     * Meadowcroft? £10/hr - no other details
     * Wanborough - http://www.wanborough.info/vhall_2.htm
     * SBC - BroadGreen etc: no prices online: http://www.swindon.gov.uk/cm/cm-halls/cm-halls-find/Pages/cm-halls-find-broadgreen.aspx - 10:00am-10:30pm
+        * Activity room - £16.48/hour
 etcetc
+    * lawn community centre - http://www.swindon.gov.uk/cm/cm-halls/cm-halls-find/Pages/cm-halls-find-broadgreen.aspx £9/hr but no weekends for non-locals?
+    * Bockhurst - http://book-online.co.uk/buckhurst/about-us.php - no prices online, reservations then email.
     * wroughton - http://www.ellendunehallwroughton.co.uk/index.php?option=com_content&view=article&id=54&Itemid=59
     * arkells: http://www.arkells.com/contact.php - incl. brewery tour!
-    * madison: http://www.madison-hotel.co.uk/
+    * madison: http://www.madison-hotel.co.uk/meetings-events - £25/head including room/snacks/hot+cold lunch/AV/wifi. - stratton suite 1 or 2.
+        * £25/delegate no matter how many
+        * £110/delegate if include breakfast, dinner + overnight.
+        * free Wifi
     * pilgrim centre, small rm: 62.50/4 hour session, or £15.625/hr: http://www.pilgrimcentre.co.uk/standard.htm , large rm 22.125/hr (standard) .. community/voluntary: 8.125hr(97.5/day) or 11.5/hr (138/day) - chairs/tables included, other amenities available for fee. 9am-9pm, can be longer if arranged.
+        * Not available on any Sundays, available on Saturdays
+        * Would like all equip including delegate laptops PAT tested!?
     * holiday inn (west): http://www.expressswindon.co.uk/holiday-inn-express-swindon-meetings/meetings.html
-    * STR old town: http://swindontrainingrooms.co.uk/roomstohire-swindon-training-and-meeting-rooms.html (front page claims £25/day, page says £95+VAT!) - replied via email, £25 is a 2-hour session thing
+    * STR old town: http://swindontrainingrooms.co.uk/roomstohire-swindon-training-and-meeting-rooms.html (front page claims £25/day, page says £95+VAT!) - replied via email, £25 is a 2-hour session thing. Weekend is then: 95+25+vat = 144/day (8am-6pm)
     * county ground: http://www.swindoncountyground.com/suites/the-chairmans-suite
-    * bible soc westlea: http://www.biblesociety.org.uk/about-bible-society/contact-us/meeting-room-hire/ £85/day..
+    * bible soc westlea: http://www.biblesociety.org.uk/about-bible-society/contact-us/meeting-room-hire/ £85/day (ex VAT) - whole day = 8hrs, evenings extra/require staffing.. Telephone: 01793 418222 Email: roomhire@biblesociety.org.uk
     * http://www.vas-swindon.org/meetingrooms.html £65/day, but only weekdays 9:30 - 4:30pm
+    * CCCC (Christ Church Community Centre) - ccccswindon.co.uk: £9.60/hour, (£105.60/day)9am-10pm! ccccswindon.co.uk - http://ccccswindon.co.uk/public-calendar.php - April 12th/13th, one uncomfirmed hour booked at 12h in large meeting room. 5th/6th free apart from 9am-10am. 19/20 free (easter), 26/27 free. 10/11 May free, 
+    * Immanuel Church, Upham Road, Walcot: immanuelurc.wordpress.com/contact-us/, no prices online
+    * citifaith, regent street - http://www.citifaith.co.uk/
+
+* Venue contacting:
+    * Pilgrim centre - info@pilgrimcentre.co.uk - available weekends, charity rates, does "electrical appliances" include laptops/tablets? what about server/router?
+    * Email to communityhire@swindon.gov.uk  sent re Broadgreen and other activity/meeting rooms managed by SBC - Answer: £16.48/hour (or £197.76 for a 12-hour booking) - currently available in April all weekends.
+    * Email sent to centremanager@strattonstmargaret.gov.uk re Meadowcroft/stratton centre - bounced from chosen recipient to someone else to answer, who hasn't yet!
+    * Email sent to sales@madison-hotel.co.uk re Madison hotel, Stratton suite 1 availability and pricing - no answer yet, visited and appropriate body wasn't in, but will call me tomorrow. Did confirm that £25/person is regardless of conf size.
+
 
 * Hackathon content
   * DBIC core

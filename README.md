@@ -1,10 +1,10 @@
-DBIx::Class Themed Hackathon
-==============================
+DBIx::Class Themed Hackathon, April 12, 2014
+============================================
 
 The Plan
 --------
 
-A one (maybe two) day weekend hackathon, April 2014, in Swindon, UK. 
+A one day weekend hackathon, 12th April 2014, in Swindon, UK at the Meadowcroft community centre. 
 
 ### What for? (Suggestions)
 
