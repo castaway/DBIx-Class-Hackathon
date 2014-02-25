@@ -53,7 +53,7 @@ Sign Up! [Eventbrite tickets, free](https://www.eventbrite.co.uk/e/dbixclass-hac
 
 ### Sponsors
 
-* [eligo)[http://www.eligo.co.uk/] are giving us £250 for the venue costs, thank you Eligo!
+* [eligo](http://www.eligo.co.uk/) are giving us £250 for the venue costs, thank you Eligo!
 * Yes please!
 * Advertising negotiable, happy to hand out flyers, put up posters etc.
 
