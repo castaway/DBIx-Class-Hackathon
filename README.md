@@ -8,6 +8,10 @@ A one day weekend hackathon, 12th April 2014, in Swindon, UK at the Meadowcroft 
 
 Sign Up! [Eventbrite tickets, free](https://www.eventbrite.co.uk/e/dbixclass-hackathon-tickets-10723727959)
 
+### When?
+
+April 12th, 2014. 10:30 - 9:30pm (setup 10am, clear hall by 10pm)
+
 ### What for? (Suggestions)
 
 * Hacking on DBIx::Class itself: A hefty prepared collection of tickets will be available to contribute to <quote: ribasushi>
