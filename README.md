@@ -4,7 +4,9 @@ DBIx::Class Themed Hackathon, April 12, 2014
 The Plan
 --------
 
-A one day weekend hackathon, 12th April 2014, in Swindon, UK at the Meadowcroft community centre. 
+A one day weekend hackathon, 12th April 2014, in Swindon, UK at the Meadowcroft community centre.
+
+Sign Up! [Eventbrite tickets, free](https://www.eventbrite.co.uk/e/dbixclass-hackathon-tickets-10723727959)
 
 ### What for? (Suggestions)
 
@@ -21,14 +23,19 @@ A one day weekend hackathon, 12th April 2014, in Swindon, UK at the Meadowcroft 
 
 ### Location
 
-* A to-be-decided venue near the centre of Swindon, UK
-* Travel by car: We're on the M4 between London and Bristol
-* Travel by train: Swindon Station is on many routes
+* The Meadowcroft Community Centre, Stratton, Swindon, UK.
+
+* Map: http://goo.gl/maps/htsXK
+
+* Travel by car: We're on the M4 between London and Bristol, the centre has parking.
+* Travel by train: Swindon Station is on many routes, then walk or take a bus: Nr 6 from the main bus station around the corner from the train station. You want to get off at the [Upper Stratton, Addison Crescent stop](http://www.transportdirect.info/Web2/JourneyPlanning/StopInformation.aspx?x=13%3a27%3a50&SID=sbxam055s3yvf555vceyqi45&IsSILanding=true)
 * Travel by air: Heathrow is approx 1 hour ride away by train, car and is a direct trip by National Express bus.
 * Accommodation suggestions:
 
     * Travelodge
     * Jury's Inn
+
+* For more suggestions, mostly closer B&Bs, see the map: http://goo.gl/maps/htsXK
 
 ### Budget/Sponsored
 
