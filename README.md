@@ -19,7 +19,7 @@ Sign Up! [Eventbrite tickets, free](https://www.eventbrite.co.uk/e/dbixclass-hac
 
 ### How many?
 
-* Who knows? drop your name in the wiki page linked below and we'll see what rooms we can get
+* The booked venue is a community hall and should have tables for at least 15 (they tell me). I've put 20 on the tickets so that we can plan for food etc. Will worry about extra if that problem arrives. Please book early to help plan!
 
 ### Location
 
