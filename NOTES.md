@@ -45,12 +45,13 @@ Jess' random planning notes go here, they will change, feel free to read/ask abo
     * ??
 
 *  Possible locations:
-    * Purton? min £13.50/hr one-off event
+    * MECA? http://www.mecaswindon.co.uk/venue/venue-hire/
+    * Purton? min £13.50/hr one-off event http://www.purtonparishcouncil.gov.uk/Village-Hall.aspx Prices - http://www.purtonparishcouncil.gov.uk/controls/DownloadDocument.ashx?docID=cx0776FWHKDHSLMVMG4889bXcm&aID=3773 (pdf)
     * Bishopstone? http://www.bishopstone.info/Joinin/ClubsSocieties/BishopstoneVillageHall/Charges.aspx - 100/day
-    * Stratton community hall, £325/7pm-11:30pm (incl. bar!)
-    * Meadowcroft? £10/hr - no other details
-    * Wanborough - http://www.wanborough.info/vhall_2.htm
-    * SBC - BroadGreen etc: no prices online: http://www.swindon.gov.uk/cm/cm-halls/cm-halls-find/Pages/cm-halls-find-broadgreen.aspx - 10:00am-10:30pm
+    * Stratton community hall, Main: £285/7pm-11:30pm (incl. bar!), Stratton Suite: £245/7-11:30pm - http://strattonstmargaret.gov.uk/main-hall-hire/
+    * Meadowcroft? was £10/hr in 2014 - no other details - http://meadowcroft.org.uk/facilities/
+    * Wanborough - http://www.wanborough.info/vhall.html ??
+    * SBC - BroadGreen etc: no prices online: http://www.swindon.gov.uk/info/20029/people_and_communities/490/find_a_community_centre/2 - 10:00am-10:30pm
         * Activity room - £16.48/hour
 etcetc
     * lawn community centre - http://www.swindon.gov.uk/cm/cm-halls/cm-halls-find/Pages/cm-halls-find-broadgreen.aspx £9/hr but no weekends for non-locals?
